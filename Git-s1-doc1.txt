@@ -1,4 +1,1 @@
-# Archivo 1 Semana 1 Reto Git
-# Texto para archivo 1 Semana 1 Reto Git
-# Texto para archivo 1 Semana 1 Reto git
-# Texto para archivo 1 Semana 1 Reto Git
+Texto para reemplazar texto del primer archivo
